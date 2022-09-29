@@ -48,7 +48,6 @@ Buttons to open and close the doors make it easier to move objects into the elev
 * Wait.
 * Exit elevator at selected floor.
 
-
 Common mistakes you can make with this design would be accidentally pressing the wrong button. The buttons are large enough that it is unlikely to do so, but can still occur. With the open and close buttons being close to the alarm and call buttons, accidentally pressing the alarm button does not seem unlikely.
 
 Here is a sketch incorporating these buttons in a touchscreen format.
