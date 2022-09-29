@@ -37,7 +37,8 @@
 ### Rare uses:
 * Alarm / Call buttons.
 
-The interface makes these actions easier. Clearly labeled and easy-to-reach buttons 
+The interface makes these actions easier. Clearly labeled and easy-to-reach buttons help show the user how to interact with it, regardless of age.
+Buttons to open and close the doors make it easier to move objects into the elevator, to let another person into the elevator, or to get to your destination quicker.
 
 ### Interaction Sequence:
 * Call elevator from lobby.
