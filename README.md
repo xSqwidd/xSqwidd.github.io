@@ -1,4 +1,5 @@
 # p1.Tucker.Hoffnagle
+Repository: https://github.com/xSqwidd/xsqwidd.github.io.git
 
 ## C Requirements:
 * This elevator was found in an apartment complex.
@@ -47,3 +48,11 @@ Buttons to open and close the doors make it easier to move objects into the elev
 * Wait.
 * Exit elevator at selected floor.
 
+
+Common mistakes you can make with this design would be accidentally pressing the wrong button. The buttons are large enough that it is unlikely to do so, but can still occur. With the open and close buttons being close to the alarm and call buttons, accidentally pressing the alarm button does not seem unlikely.
+
+Here is a sketch incorporating these buttons in a touchscreen format.
+
+![20220928_232336](https://user-images.githubusercontent.com/110496042/192939610-089a4be9-492e-4847-8ba0-f211d212e891.jpg)
+
+The five floor buttons are located on the left-hand side. When these are pressed, they would invert their colors to clearly indicate which was selected. As the elevator travels to that floor, it would display the selected floor and a brief description of what lies on that floor. If multiple were pressed, then it would display information for the floor that it is currently traveling to. The open and close buttons are located next to the floor buttons, with the alarm and call buttons on the far right-side away from the rest. This helps prevent users from accidentally pressing them as they are located further away from the commonly pressed buttons. Alarm and Call would both be red to clearly indicate that they are emergency buttons.
